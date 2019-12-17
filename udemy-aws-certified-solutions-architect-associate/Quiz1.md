@@ -65,3 +65,5 @@
 
 #### You are a digital media agency and you need to convert your media files in to different formats to suit differenctde
 - Elastic Transcoder
+#### Which of the following is correct?
+- # of Edge Location > # of Availability Zones > # of Regions
